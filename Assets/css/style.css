@@ -5,7 +5,7 @@ body {
     border-color: #dddddd;
     font-family: Arial, Helvetica, sans-serif;
     background-attachment: fixed;
-    background-image: url(/Users/scottchapman/bootcamp/UCBSAN201805FSF2-Class-Repository-FSF/Portfolio-v1/Assets/images/what-the-hex/what-the-hex.png)
+    background-image: url(../images/what-the-hex/what-the-hex.png)
 }
 header {
     width: auto;
